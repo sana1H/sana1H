@@ -5,9 +5,9 @@ Backend Engineer · AI Agent Systems · Final-year CSE @ TIET Patiala
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">LinkedIn</a> ·
-<a href="YOUR_LEETCODE">LeetCode</a> ·
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://www.linkedin.com/in/sanyanarula/">LinkedIn</a> ·
+<a href="https://leetcode.com/u/coderhack_me/">LeetCode</a> ·
+<a href="mailto:sanyanarula1105@gmail.com">Email</a>
 </p>
 
 ---
